@@ -5,10 +5,10 @@ This is an edit of the CSS File within qb-doorlocks v2 and was made to look more
 # Example Of Doorlocks 
 
 **This Is What The Doorlocks Look Like When Locked**
-![image](https://imgur.com/a/18kFkLI)
+![image](https://media.discordapp.net/attachments/1332133273911955502/1353482745455575050/Doorlocks_Locked.png?ex=67e1d089&is=67e07f09&hm=dcd0ce56d32b2e9d87d8c823179f5f17e9b20ce036619f5d1e56dc4b16e91e00&=&format=webp&quality=lossless&width=928&height=522)
 
 **This Is What The Doorlocks Look Like When Unlocked**
-![image](https://imgur.com/Wzl8F2o)
+![image](https://media.discordapp.net/attachments/1332133273911955502/1353482746147897394/Doorlocks_Unlocked.png?ex=67e1d089&is=67e07f09&hm=88f546f58bb5859132a026067199e7327286c35a681548b7fd82c856bd96e013&=&format=webp&quality=lossless&width=928&height=522)
 
 # Install 
 
