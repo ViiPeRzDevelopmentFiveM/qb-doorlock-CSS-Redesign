@@ -2,6 +2,8 @@
 
 This is an edit of the CSS File within qb-doorlocks v2 and was made to look more sleek and up to date
 
+This is My First Release And First Time Doing Anything Like This So Just Trying To Give Out Some Stuff That Im Learning In The Process Of Doing Stuff Like This, So Enjoy
+
 # Example Of Doorlocks 
 
 **This Is What The Doorlocks Look Like When Locked**
